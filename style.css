@@ -1,0 +1,85 @@
+body{
+    width: 1000pt
+}
+
+
+.hlavicka {
+    background-color:lightblue;
+    text-align: center;
+    padding: 15pt;
+}
+
+
+.omne {
+    background-color: rgb(250, 250, 209);
+    padding: 15pt;
+    text-align: justify;
+    text-indent: 20pt;
+    }
+
+.profil {
+    padding: 15pt;
+    background-color: lightgoldenrodyellow;
+}
+
+.foto {
+
+    text-align: left;
+    background-color: lightgoldenrodyellow;
+  
+}
+.paticka {
+    padding: 15px 0;
+    text-align: center;
+    background-color:grey;
+    color: white;
+    font-weight: bold;
+
+}
+
+.kontakt {
+    padding: 15pt;
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    margin: 0;
+    font-size: 24pt;
+    font-family: fantasy;
+    font-weight: bold;    
+}
+
+h2 {
+    margin: 0;
+    font-size: 12pt;
+    font-family: fantasy;
+    text-indent: 0;
+}
+
+h3 {
+    margin: 0;
+    font-size: 10pt;
+    font-family: fantasy;
+    }
+
+a {
+    color: blue;
+    font-style: italic;
+  }
+a :hover {
+    color: red;
+}
+
+a :visited {
+    color: green;
+}
+
+  p {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: black;
+      display: block;
+        }
+
+   img {
+       float: left;
+       margin: 30pt 30pt 30pt 15pt;       
+    }
